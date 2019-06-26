@@ -1,4 +1,4 @@
-# cgi-project
+# Bootstrap Assignment
 My project contains the following elements …
 
 Page heading and nav bar
